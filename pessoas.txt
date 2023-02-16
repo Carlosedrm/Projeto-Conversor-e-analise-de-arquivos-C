@@ -1,0 +1,20 @@
+Machado de Assis;Brasil;Memorias Postumas de Bras Cubas;0;1881;5.0
+Carlos Drummond de Andrade;Brasil;Uma pedra no meio do caminho: biografia de um 1;1;1967;4.4
+Carlos Drummond de Andrade;Brasil;Andorinha, andorinha;1;1966;3.3
+Carlos Drummond de Andrade;Brasil;O Melhor da poesia brasileira;1;1979;1.0
+Fiodor Dostoievski;Russo;Noites Brancas;2;1848;2.0
+Fiodor Dostoievski;Russo;Uma Criatura Gentil;3;1876;5.0
+Stephen King;EUA;The Mist ;4;1980;2.2
+Stephen King;EUA;O Corpo ;4;1982;1.1
+Stephen King;EUA;147 (conto) ;5;1999;3.9
+Stephen King;EUA;1922;2;2010;4.9
+Stephen King;EUA;Different Seasons;4;1982;1.2
+Gustave Flaubert;Frances;Madame Bovary;0;1856;4.2
+Gustave Flaubert;Frances;A Educacao Sentimental;0;1869;3.2
+Hermann Hesse;Alemao;hermann hesse novalis: dokumente seines lebens und sterbens;6;1925;3.3
+Haruki Murakami;Japones;Tony Takitani;7;1996;1.8
+Dante Alighieri Giovanni Boccaccio;Italiano;Decamerao;0;1353;2.5
+Francesco Petrarca;Italiano;Triunfos;1;1351;4.0
+Morris West;Australiano;O Advogado do Diabo ;3;1959;4.5
+Morris West;Australiano;As Sandalias do Pescador;0;1963;4.3
+Chinua Achebe;Africano;A Flecha de Deus;8;1964;4.2

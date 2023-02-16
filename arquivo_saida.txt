@@ -1,0 +1,7 @@
+A media de livros foi de 1 livro a cada 6 anos.
+Nome do livro: Memorias Postumas de Bras Cubas
+Nome do livro: Madame Bovary
+Nome do livro: A Educacao Sentimental
+Nome do livro: Decamerao
+Nome do livro: As Sandalias do Pescador
+Existe 5 livro(s) do estilo Romance.
