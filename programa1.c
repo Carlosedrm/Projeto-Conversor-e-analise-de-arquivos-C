@@ -60,42 +60,4 @@ int main(int argc, char *argv[]) {
   return 0;
 }
 
-/*int ler_arquivo(FILE *fp){
-  if (fp == NULL) {
-    fprintf(stderr, "Arquivo nao encontrado. \n");
-    return 1;
-  } else {
-    puts("Arquivo encontrado! \n");
-  }
-  return 0;
-}
-
-int colocar_struct(FILE *fp, LIVROS *LIVRO){
-  int read = 0, records = 0;
-
-  do
-  {
-    read = fscanf(fp, "%99[^;]; %49[^;]; %99[^;]; %d; %d; %lf\n", LIVRO[records].autor, LIVRO[records].pais, LIVRO[records].nome, &LIVRO[records].estilo, &LIVRO[records].data, &LIVRO[records].avaliacao);
-    records ++;
-  } while(!feof(fp));
-
-  puts("Itens colocado na struct!\n");
-
-  return 0;
-}
-
-bool escrever_data(FILE *tfp, LIVROS *LIVRO, int total){
-
-  if(tfp == NULL) return false;
-
-  if(fwrite(&total, sizeof(int), 1, tfp) != 1)
-    return false;
-  
-  if(fwrite(LIVRO, sizeof(LIVROS), total, tfp) != total)
-    return false;
-
-  if(fclose(tfp) == EOF) return false;
-  return true;
-
-}*/
 
